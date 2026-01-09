@@ -1,88 +1,98 @@
 # 👋 Hi, I'm Om Mishra
 
-Aspiring Data Scientist & AI Enthusiast | Chandigarh University  
-**Reliance Foundation Scholar & Mentor | NASA Space App Challenge Top 3**
+**Data Analytics & Business Intelligence Enthusiast**  
+Computer Science Undergraduate | Chandigarh University  
+**Reliance Foundation Scholar & Mentor | NASA Space App Challenge – Top 3**
 
 ---
 
 ## 🚀 About Me
 
-- **Pursuing B.E. in Computer Science**  
-- Passionate about applying **Machine Learning** and **Reinforcement Learning** to solve real-world problems  
-- Strong blend of technical, creative, and communication skills
+I am a Computer Science undergraduate with a strong interest in **data analytics, business reporting, and data-driven decision-making**.  
+I enjoy working with structured data to uncover insights, build dashboards, and support real-world business and market-oriented use cases.
+
+I have hands-on experience with **SQL, Advanced Excel, Python, and Power BI**, and I focus on building solutions that are **accurate, explainable, and stakeholder-ready**.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎓 Education
 
-**Languages:** Python | C++ | SQL  
-**Libraries/Frameworks:** Pandas | NumPy | Matplotlib | Seaborn | TensorFlow | scikit-learn | Stable-Baselines3 | Gym  
-**Tools:** VS Code | PyCharm | MySQL Workbench | Streamlit | Unity | Blender
+- **Bachelor of Science in Computer Science**  
+  University Institute of Engineering, Chandigarh University  
+  **CGPA:** 7.45 (2022 – Present)
 
----
-
-## 💡 Core Concepts
-
-- Data Cleaning & Visualization
-- Feature Engineering & Reporting
-- Reinforcement Learning (PPO, DDPG, A2C)
-- Natural Language Processing (NLP)
-- Speech-to-Text (Whisper)
+- **AISSCE (Science):** 94.8%  
+- **AISSE:** 92%
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ Skills & Tools
 
-### 🎙️ [Grammar Scoring System from Spoken Audios](https://github.com/ommishra03/Grammar-Scoring-System-from-Spoken-Audios)
-*Built with Streamlit, Whisper, spaCy, and LanguageTool API*
+### Programming & Querying
+- Python (Pandas, NumPy)
+- SQL (Joins, CTEs, CASE, KPI queries)
 
-- Transcribes audio and scores grammar with **90.3% accuracy**
-- Data visualization using Seaborn and Matplotlib
+### Data Analytics & Reporting
+- Data cleaning, validation, trend analysis
+- Advanced Excel (Pivot Tables, Power Query, dashboards)
+- Power BI (interactive dashboards & storytelling)
+
+### Core Concepts
+- Business & market analytics
+- KPI design and comparative analysis
+- Data validation & reconciliation
+- Stakeholder-focused reporting
 
 ---
 
-### 📊 [AI-Driven Portfolio Optimization Using Reinforcement Learning](https://github.com/ommishra03/AI-Driven-Portfolio-Optimization-Using-Reinforcement-Learning)
-*Implemented RL algorithms (PPO, DDPG, A2C) for stock allocation*
+## 📊 Featured Projects
 
-- Achieved **89.6% allocation efficiency**
-- Leveraged Stable-Baselines3, Gym, Pandas
+### 📈 Mutual Fund Recommendation System & Analytics  
+🔗 https://github.com/ommishra03/Mutual-Fund-Analysis/tree/main
+
+- Built an end-to-end analytics and recommendation system using risk, return, and cost metrics  
+- Developed rule-based and Z-score–based scoring models for explainable fund rankings  
+- Implemented an XGBoost-based ranking model, improving recommendation quality by ~18%  
+- Created Power BI dashboards to present insights to business stakeholders  
 
 ---
 
-## 🏆 Achievements
+### 📉 Portfolio Performance & Trend Analysis
 
-- 🥈 **Top 3 University Team** – NASA Space App Challenge 2023  
-  *Developed a Unity game “Titan: 3023” and designed 3D assets in Blender*
+- Analyzed historical portfolio data to identify performance trends and risk behavior  
+- Translated business questions into measurable KPIs using SQL, Excel, and Python  
+- Prepared structured summaries and visual outputs for reporting and decision support  
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥈 **Top 3 University Team – NASA Space App Challenge 2023**  
+  Led requirement discussions and solution delivery under tight deadlines
+
 - 🏅 **Reliance Foundation Scholar & Mentor** (Top 5000 of 45,000)  
-  *Mentored juniors in Python, projects, and soft skills*
-- 🧠 **Budding Mariners (Mentor/Tutor)**  
-  *Restructured mathematics module for merchant navy aspirants, led interactive sessions*
+  Mentored students in analytical thinking, problem-solving, and learning strategies
+
+- 📘 **Mathematics Educator – Budding Mariners**  
+  Taught merchant navy aspirants with focus on clarity, discipline, and exam readiness
 
 ---
 
-## 🎯 Hobbies & Interests
+## 🌱 Interests
 
-- Hackathons & Game Dev Jams
-- Data Visualization & Finance + ML intersections
-- Story writing & impactful presentations
-- Rapid prototyping with Unity & Blender
-
----
-
-## 🌟 What Sets Me Apart
-
-- Proven leadership and mentoring experience at the national level
-- Quick learner—mastered Unity & Blender in a 36-hour hackathon, placed top 3!
-- Passion for combining **finance, education, AI, and community development**
+- Data analytics & business intelligence  
+- Finance and market-driven analytics use cases  
+- Dashboard design & data storytelling  
+- Hackathons and structured problem-solving  
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/om-mishra-a62991289/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/ommishra03)
-📧 ommishra1729@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/om-mishra-a62991289  
+- 💻 GitHub: https://github.com/ommishra03  
+- 📧 Email: ommishra1729@gmail.com  
 
 ---
 
-*Let’s collaborate and create impactful solutions together!*
+⭐ *Always open to learning, collaboration, and entry-level analytics opportunities.*
