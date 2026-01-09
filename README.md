@@ -58,6 +58,7 @@ I have hands-on experience with **SQL, Advanced Excel, Python, and Power BI**, a
 ---
 
 ### 📉 Portfolio Performance & Trend Analysis
+🔗 https://github.com/ommishra03/AI-Driven-Portfolio-Optimization-Using-Reinforcement-Learning
 
 - Analyzed historical portfolio data to identify performance trends and risk behavior  
 - Translated business questions into measurable KPIs using SQL, Excel, and Python  
