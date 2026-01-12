@@ -8,10 +8,14 @@ Computer Science Undergraduate | Chandigarh University
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate with a strong interest in **data analytics, business reporting, and data-driven decision-making**.  
-I enjoy working with structured data to uncover insights, build dashboards, and support real-world business and market-oriented use cases.
+I am a Computer Science undergraduate with a strong focus on **data analytics, business intelligence, and decision-support systems**.  
+My primary interest lies in transforming raw data into **structured insights that support business, financial, and market-driven decisions**.
 
-I have hands-on experience with **SQL, Advanced Excel, Python, and Power BI**, and I focus on building solutions that are **accurate, explainable, and stakeholder-ready**.
+I have hands-on experience working with **SQL, Advanced Excel, Python, and Power BI**, and I enjoy building analytics workflows that emphasize **data quality, interpretability, and stakeholder relevance** rather than just technical complexity.
+
+Through my projects, I have worked on **market analysis, risk-aware financial analytics, KPI design, and executive-style reporting**, following practices commonly used in real-world analytics and consulting environments. I prioritize clarity, validation, and actionable insights in every analysis I build.
+
+I am actively seeking **entry-level roles and internships in Data Analytics / Business Intelligence**, where I can contribute to data-driven problem solving while continuing to strengthen my analytical and business acumen.
 
 ---
 
@@ -48,7 +52,7 @@ I have hands-on experience with **SQL, Advanced Excel, Python, and Power BI**, a
 ## 📊 Featured Projects
 
 ### 📈 Mutual Fund Recommendation System & Analytics  
-🔗 https://github.com/ommishra03/Mutual-Fund-Analysis/tree/main
+🔗 [Link to Project](https://github.com/ommishra03/Mutual-Fund-Analysis/tree/main)
 
 - Built an end-to-end analytics and recommendation system using risk, return, and cost metrics  
 - Developed rule-based and Z-score–based scoring models for explainable fund rankings  
@@ -57,12 +61,15 @@ I have hands-on experience with **SQL, Advanced Excel, Python, and Power BI**, a
 
 ---
 
-### 📉 Portfolio Performance & Trend Analysis
-🔗 https://github.com/ommishra03/AI-Driven-Portfolio-Optimization-Using-Reinforcement-Learning
+### 📉 WebScraping-Stock-Data-and-Visualization
+🔗 [Link to Project](https://github.com/ommishra03/WebScraping-Stock-Data-and-Visualization)
 
-- Analyzed historical portfolio data to identify performance trends and risk behavior  
-- Translated business questions into measurable KPIs using SQL, Excel, and Python  
-- Prepared structured summaries and visual outputs for reporting and decision support  
+- Built an end-to-end financial analysis workflow to evaluate Tesla and NVIDIA using market data and business fundamentals
+- Extracted historical stock prices via APIs and revenue data through structured web scraping, handling real-world data availability challenges
+- Performed data cleaning, validation, and automated profiling to ensure statistical reliability before analysis
+- Analyzed price trends, moving averages, volatility, and risk-adjusted performance (Sharpe Ratio)
+- Compared market behavior with revenue growth to distinguish fundamental-driven vs sentiment-driven price movements
+- Presented findings using executive-style visualizations and structured analytical summaries
 
 ---
 
