@@ -52,12 +52,20 @@ I am actively seeking **entry-level roles and internships in Data Analytics / Bu
 ## 📊 Featured Projects
 
 ### 📈 Mutual Fund Recommendation System & Analytics  
-🔗 [Link to Project](https://github.com/ommishra03/Mutual-Fund-Analysis/tree/main)
+🔗 [Project Repository](https://github.com/ommishra03/Mutual-Fund-Analysis)  
+🌐 [Live Streamlit App](https://mutualfundanalytics.streamlit.app/)
 
-- Built an end-to-end analytics and recommendation system using risk, return, and cost metrics  
-- Developed rule-based and Z-score–based scoring models for explainable fund rankings  
-- Implemented an XGBoost-based ranking model, improving recommendation quality by ~18%  
-- Created Power BI dashboards to present insights to business stakeholders  
+- Designed and deployed an **end-to-end mutual fund recommendation system** using historical returns, volatility, and risk-adjusted performance metrics  
+- Built **rule-based and Z-score–based scoring models** to generate transparent, explainable fund rankings  
+- Implemented an **XGBoost-based ranking model**, improving recommendation quality by **~18%** over baseline approaches  
+- Developed a **production-ready Streamlit web application** featuring:
+  - Risk-based fund filtering (Low / Moderate / High / No Preference)  
+  - SIP vs Lumpsum investment comparison  
+  - Interactive return-vs-risk visualizations  
+  - Downloadable recommendation reports (CSV / Excel)  
+- Created **Power BI dashboards** to translate analytical and ML outputs into stakeholder-friendly business insights  
+- Applied feature engineering, statistical normalization, and evaluation techniques aligned with **fintech and asset-management use cases**
+
 
 ---
 
