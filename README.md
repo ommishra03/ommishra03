@@ -70,7 +70,7 @@ I am actively seeking **entry-level roles and internships in Data Analytics / Bu
 ---
 
 ### 📉 WebScraping-Stock-Data-and-Visualization
-🔗 [Link to Project](https://github.com/ommishra03/WebScraping-Stock-Data-and-Visualization)
+🔗 [Project Repository](https://github.com/ommishra03/WebScraping-Stock-Data-and-Visualization)
 
 - Built an end-to-end financial analysis workflow to evaluate Tesla and NVIDIA using market data and business fundamentals
 - Extracted historical stock prices via APIs and revenue data through structured web scraping, handling real-world data availability challenges
