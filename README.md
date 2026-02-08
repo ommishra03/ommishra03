@@ -53,7 +53,7 @@ I am actively seeking **entry-level roles and internships in Data Analytics / Bu
 
 ### 📈 Mutual Fund Recommendation System & Analytics  
 🔗 [Project Repository](https://github.com/ommishra03/Mutual-Fund-Analysis)  
-🌐 [Live Streamlit App](https://mutualfundanalytics.streamlit.app/)
+🌐 [Live Streamlit App](https://mutual-fund-analysis-om.streamlit.app/)
 
 - Designed and deployed an **end-to-end mutual fund recommendation system** using historical returns, volatility, and risk-adjusted performance metrics  
 - Built **rule-based and Z-score–based scoring models** to generate transparent, explainable fund rankings  
