@@ -69,15 +69,15 @@ I am actively seeking **entry-level roles and internships in Data Analytics / Bu
 
 ---
 
-### 📉 WebScraping-Stock-Data-and-Visualization
-🔗 [Project Repository](https://github.com/ommishra03/WebScraping-Stock-Data-and-Visualization)
+### 🧠 Smart Allocation Engine – Portfolio Decision Modeling
+🔗 [Project Repository](https://github.com/ommishra03/Smart-Allocation-Engine-Portfolio-Decision-Modeling)
 
-- Built an end-to-end financial analysis workflow to evaluate Tesla and NVIDIA using market data and business fundamentals
-- Extracted historical stock prices via APIs and revenue data through structured web scraping, handling real-world data availability challenges
-- Performed data cleaning, validation, and automated profiling to ensure statistical reliability before analysis
-- Analyzed price trends, moving averages, volatility, and risk-adjusted performance (Sharpe Ratio)
-- Compared market behavior with revenue growth to distinguish fundamental-driven vs sentiment-driven price movements
-- Presented findings using executive-style visualizations and structured analytical summaries
+- Designed a risk-aware portfolio analytics system focused on **capital preservation and downside risk** instead of only return maximization
+- Built an industry-style analytics pipeline integrating **SQL → Excel → Power BI → Python** to simulate real finance and risk team workflows
+- Developed allocation analysis to evaluate portfolio stability under varying market conditions using volatility, drawdown, and risk metrics
+- Implemented structured data validation, analyst-driven financial checks, and decision-oriented dashboards for stakeholder insights
+- Modeled portfolio behavior through scenario analysis and allocation comparison to identify resilient investment strategies
+- Delivered business-focused visual storytelling highlighting stable vs risky portfolios and early warning signals for investors
 
 ---
 
